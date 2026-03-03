@@ -2,6 +2,17 @@
 name: laravel-nova-5
 description: "Develops Laravel Nova 5 administration panels. Activates when creating or editing Nova resources, fields, actions, filters, lenses, metrics, dashboards, authorization policies, relationships, panels, tabs, repeater fields, dependent fields, custom tools, or any Nova admin panel feature. Also triggers when the user mentions 'Nova', 'admin panel', 'back-office', 'resource CRUD', 'Nova action', 'Nova metric', 'Nova lens', 'Nova filter', 'Nova dashboard', or any reference to building Laravel-based administration interfaces. Use this skill even for questions about Nova authorization, field visibility, validation in Nova context, or Nova customization like custom fields, tools, and cards."
 license: MIT
+compatible_agents:
+  - Claude Code
+  - Cursor
+  - Windsurf
+  - Copilot
+tags:
+  - laravel
+  - php
+  - nova
+  - admin-panel
+  - backend
 metadata:
   author: community
   version: "1.0.0"
