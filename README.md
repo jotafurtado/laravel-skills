@@ -5,13 +5,13 @@ AI agent skill for building Laravel Nova 5 administration panels. Teaches your A
 ## Install
 
 ```bash
-php artisan boost:add-skill your-username/laravel-nova-5-skill
+php artisan boost:add-skill jotafurtado/laravel-skills
 ```
 
 Or with npx:
 
 ```bash
-npx skills add your-username/laravel-nova-5-skill
+npx skills add jotafurtado/laravel-skills
 ```
 
 ## What's Covered
